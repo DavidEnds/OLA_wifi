@@ -1,0 +1,8 @@
+
+varios patrones de luz
+aleatorio,
+modo escucha -> como el secreto, pero no se guardan
+modo secreto ->almacena secretos
+modo barrido
+modo rubik
+modo unpaired -> no implementado
